@@ -6,7 +6,7 @@
 - [Ayrton Macaulay Porto de Gois](https://www.linkedin.com/in/ayrton-porto/) :blush:
 - [Pablo Souza](https://www.linkedin.com/in/pablo-souza-641a9a225/)
 - [Jhuliana Santos](https://www.linkedin.com/in/jhuzinha/) :blush:
-- [Vinicius Cavalcante Silva](https://www.linkedin.com/in/vcsilvaa/) 🤨
+- [Vinicius Cavalcante Silva](https://www.linkedin.com/in/vcsilvaa/) 🤨 [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/vcsil)
 - [Vitor Carvalho Matos](https://www.linkedin.com/in/vitor-carvalho-matos-6345a3234/) :blush:
 - [Guilherme Soares da Mota de Oliveira](https://www.linkedin.com/in/guilherme-oliveira-5b292ba3/) 😬
 - [Lucas B. Barbosa](https://www.linkedin.com/in/lucas-b-barbosa-12a157216/) :sparkles:
